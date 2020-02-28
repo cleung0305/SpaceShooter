@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 56dfad2355f8dd74b956bfe524abac64, type: 3}
+  m_Name: EnemyPredictionTest
+  m_EditorClassIdentifier: 
+  damage: 0.0001
+  fireRate: 1
+  projectileSpeed: 8
+  projectileImage: {fileID: 7145968359262953003, guid: c7a59bdc6aa23d645973807ee9ec4501,
+    type: 3}
+  npcFollowDistance: 10
+  range: 25
+  sound: {fileID: 0}
+  volume: 1
+  projectile: {fileID: 1293707857675163038, guid: bb60df3976c46984cb3b47884fb99bb7,
+    type: 3}
+  scale: {x: 1, y: 1}
+  degreesOfAccuracy: 45
+  canBeHitByProjectiles: 0
+  damageBeforeDestroyed: 1

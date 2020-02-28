@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 56dfad2355f8dd74b956bfe524abac64, type: 3}
+  m_Name: PirateHeavyCannon
+  m_EditorClassIdentifier: 
+  damage: 20
+  fireRate: 1
+  projectileSpeed: 15
+  projectileImage: {fileID: -931240730793808255, guid: 13b53ad6633655344b58f98929a76d96,
+    type: 3}
+  npcFollowDistance: 10
+  range: 25
+  sound: {fileID: 8300000, guid: cbfd5650c63cd0f44a93713894d87390, type: 3}
+  volume: 0.5
+  projectile: {fileID: 8819101810938153031, guid: 6323de503592567488e5b8378c8a0393,
+    type: 3}
+  scale: {x: 5, y: 5}
+  degreesOfAccuracy: 45
+  canBeHitByProjectiles: 0
+  damageBeforeDestroyed: 1

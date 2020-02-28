@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e99ac17f532e65947ab837c5b36cf455, type: 3}
+  m_Name: BusterShot
+  m_EditorClassIdentifier: 
+  damage: 30
+  fireRate: 0.5
+  projectileSpeed: 15
+  projectileImage: {fileID: -5504451366531638215, guid: 26e22e078f247034f80329c984899b83,
+    type: 3}
+  npcFollowDistance: 25
+  range: 35
+  sound: {fileID: 8300000, guid: 2614c745efa87d34f8038bd9d828bc2d, type: 3}
+  volume: 0.5
+  projectile: {fileID: 8819101810938153031, guid: 7f36f4170f4b14b4996d3c480c263f46,
+    type: 3}
+  scale: {x: 1, y: 1}
+  degreesOfAccuracy: 45
+  canBeHitByProjectiles: 0
+  damageBeforeDestroyed: 1
+  startSize: 1
+  endSize: 5
+  growthSpeed: 4
+  endDamage: 100
+  damagegrowthSpeed: 15

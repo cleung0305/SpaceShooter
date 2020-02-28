@@ -1,0 +1,415 @@
+fileFormatVersion: 2
+guid: 65a31bdcc27226d41a5faf4bfa9587b1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7845604083583573265
+    second: MoleculeProjectile_0
+  - first:
+      213: -7654317722961452242
+    second: MoleculeProjectile_1
+  - first:
+      213: -1891001959522839506
+    second: MoleculeProjectile_2
+  - first:
+      213: 3385135317622966743
+    second: MoleculeProjectile_3
+  - first:
+      213: -6023567178811411723
+    second: MoleculeProjectile_4
+  - first:
+      213: -8544620509610343749
+    second: MoleculeProjectile_5
+  - first:
+      213: -6201726766650703347
+    second: MoleculeProjectile_6
+  - first:
+      213: 1519615986374354036
+    second: MoleculeProjectile_7
+  - first:
+      213: 3061727921762108466
+    second: MoleculeProjectile_8
+  - first:
+      213: 1285584614773213387
+    second: MoleculeProjectile_9
+  - first:
+      213: 3721455442249429326
+    second: MoleculeProjectile_10
+  - first:
+      213: -2874834763267622484
+    second: MoleculeProjectile_11
+  - first:
+      213: -4230538342225488979
+    second: MoleculeProjectile_12
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MoleculeProjectile_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5
+        width: 37
+        height: 44
+      alignment: 9
+      pivot: {x: 0.51339704, y: 0.5450626}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08336bee1630f014c850776c40b0e6ed
+      internalID: -7845604083583573265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoleculeProjectile_1
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1
+        width: 30
+        height: 53
+      alignment: 9
+      pivot: {x: 0.516523, y: 0.5093526}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12ca44f36cebe544ea9c196bf5a865cb
+      internalID: -7654317722961452242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoleculeProjectile_2
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 0
+        width: 30
+        height: 54
+      alignment: 9
+      pivot: {x: 0.51652324, y: 0.5183587}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b70f693758e3bad45adf060444c7de04
+      internalID: -1891001959522839506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoleculeProjectile_3
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 5
+        width: 35
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5283251, y: 0.5225313}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4602b773cecff045bbdaf1da6ec4580
+      internalID: 3385135317622966743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoleculeProjectile_4
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 12
+        width: 47
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5210932, y: 0.53198}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d08179435a365c144b272cf2dad04a18
+      internalID: -6023567178811411723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoleculeProjectile_5
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 10
+        width: 53
+        height: 40
+      alignment: 9
+      pivot: {x: 0.51870555, y: 0.42564645}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce1757b31c62c8d418a4d21bdecd66ba
+      internalID: -8544620509610343749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoleculeProjectile_6
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 0
+        width: 51
+        height: 54
+      alignment: 9
+      pivot: {x: 0.5194391, y: 0.52753824}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ca449e51d1148a4abe22894c2ae2105
+      internalID: -6201726766650703347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoleculeProjectile_7
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 7
+        width: 41
+        height: 38
+      alignment: 9
+      pivot: {x: 0.52418035, y: 0.5260889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52224be37d8d11347b037f1ffc4de069
+      internalID: 1519615986374354036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoleculeProjectile_8
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 2
+        width: 30
+        height: 52
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5285975}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00b6b3911ac79ae468aad618d8622be1
+      internalID: 3061727921762108466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoleculeProjectile_9
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 3
+        width: 30
+        height: 52
+      alignment: 9
+      pivot: {x: 0.5, y: 0.519065}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70c3a352f0e236c45ae9ad9181ed42ed
+      internalID: 1285584614773213387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoleculeProjectile_10
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 1
+        width: 43
+        height: 54
+      alignment: 9
+      pivot: {x: 0.51152855, y: 0.5183589}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaade2c5299e5834ca1d465c80c3727a
+      internalID: 3721455442249429326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoleculeProjectile_11
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 13
+        width: 53
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5093522, y: 0.50000006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8acf5eb9e5cfd2a4489f108557dde727
+      internalID: -2874834763267622484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoleculeProjectile_12
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 11
+        width: 47
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5210935, y: 0.42564648}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1398a87ae2f6a6c4eab3c953d504c7a5
+      internalID: -4230538342225488979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

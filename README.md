@@ -1,2 +1,2 @@
-# SpaceShooter
-A 2D top-down space shooter game created in unity. 
+# Space-Shooter
+A 2d space shooter made in Unity

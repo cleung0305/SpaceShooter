@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Final Scenes/MainMenu.unity
+    guid: 03f0fca6e3f614148be236366d7deee9
+  - enabled: 1
+    path: Assets/Scenes/Final Scenes/Boss Scene.unity
+    guid: 956ede4acc531ee438e9cfd4889b43de
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: Assets/Scenes/TestScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 0
+    path: Assets/Scenes/LiveDemo.unity
+    guid: c5a692fc2b99e2d41ad55ddd084457a6
+  - enabled: 1
+    path: Assets/Scenes/LowerLeft.unity
+    guid: 094c0645f730648f6bc3ffaf410c29fd
+  - enabled: 1
+    path: Assets/Scenes/Final Scenes/Center.unity
+    guid: 694f1f5be830441bcb8b143ef5bd113f
+  - enabled: 1
+    path: Assets/Scenes/Final Scenes/Intro.unity
+    guid: eac37f80086703743af62a256e72311b
+  - enabled: 1
+    path: Assets/Scenes/Final Scenes/Boss 2 Scene.unity
+    guid: 99190cb86873c4f46afd225156c9e308
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Final Scenes/Outro.unity
+    guid: e8e1cbfbd275c6d4fbb7c7f62069080e
+  - enabled: 0
+    path: Assets/Scenes/BattleTest.unity
+    guid: 88afe4106ec34e147aea5ac0bf2a3429
+  - enabled: 1
+    path: Assets/Scenes/Final Scenes/Boss 3 Scene.unity
+    guid: 447805558dbd69742ba7613245a6fd47
+  m_configObjects: {}

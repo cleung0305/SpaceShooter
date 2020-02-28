@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: 4594c1a66ec7be8488776f142804ca8f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - shipWeapon: {instanceID: 0}
+  - shipRb: {instanceID: 0}
+  - shipCollider: {instanceID: 0}
+  - spriteRenderer: {instanceID: 0}
+  - audioSource: {instanceID: 0}
+  - deathSound: {instanceID: 0}
+  - moveSound: {instanceID: 0}
+  - healthBar: {instanceID: 0}
+  - shieldBar: {instanceID: 0}
+  - onHitExplosion: {fileID: 4265490741943177347, guid: efc312c3e056e044cbdd8491e2d0f7b3,
+      type: 3}
+  - npcType: {instanceID: 0}
+  - targetingController: {instanceID: 0}
+  - explosion: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e99ac17f532e65947ab837c5b36cf455, type: 3}
+  m_Name: ElectricBall
+  m_EditorClassIdentifier: 
+  damage: 25
+  fireRate: 0.25
+  projectileSpeed: 9
+  projectileImage: {fileID: 759683346799781104, guid: 66fe7ad5f21085b4d9dbb2df3eb5a807,
+    type: 3}
+  npcFollowDistance: 25
+  range: 25
+  sound: {fileID: 8300000, guid: e455c98a7f5521e46a641b74fff4a6ba, type: 3}
+  volume: 0.5
+  projectile: {fileID: 8819101810938153031, guid: 54d7b31b5ed0b7144b1cef84292997d3,
+    type: 3}
+  scale: {x: 1, y: 1}
+  degreesOfAccuracy: 15
+  canBeHitByProjectiles: 0
+  damageBeforeDestroyed: 1
+  startSize: 0.5
+  endSize: 3.5
+  growthSpeed: 1
+  endDamage: 150
+  damagegrowthSpeed: 15

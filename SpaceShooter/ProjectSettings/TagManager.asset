@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Asteroid
+  - Enemy
+  - GameManager
+  - WeakPoint
+  - PlayerShield
+  - Shop
+  - SectorContainer
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Projectiles
+  - Asteroids
+  - Player
+  - NoProjectiles
+  - Missiles
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BottomLayer
+    uniqueID: 2011536443
+    locked: 0
+  - name: NPC Ships
+    uniqueID: 3595061799
+    locked: 0
+  - name: Player
+    uniqueID: 588918663
+    locked: 0
+  - name: Projectiles
+    uniqueID: 195804275
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: UI
+    uniqueID: 1582338981
+    locked: 0

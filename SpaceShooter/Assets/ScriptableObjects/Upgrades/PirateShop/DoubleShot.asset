@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eb831d302c8bdc041b4e6f58fd2089f0, type: 3}
+  m_Name: DoubleShot
+  m_EditorClassIdentifier: 
+  type: 3
+  maxBuyCount: 1
+  upgradeName: Double Photon Cannon
+  description: Shoots a highly unstable projectile which deals more damage the further
+    it flies
+  cost: 1000
+  increase: 0
+  weapon: {fileID: 11400000, guid: 1f8e83c41b1ccec43a158d703983a28c, type: 2}
+  ship: {fileID: 0}

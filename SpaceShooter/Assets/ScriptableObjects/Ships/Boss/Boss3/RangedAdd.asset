@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d3210549f35f84f448fbec235ca29c4e, type: 3}
+  m_Name: RangedAdd
+  m_EditorClassIdentifier: 
+  baseSprite: {fileID: -5845556394901127729, guid: 28aa310e701899b4784958f0847ff376,
+    type: 3}
+  animatorController: {fileID: 22100000, guid: 842b1883e0ca8492a89f54ef183392bc, type: 2}
+  explosion: {fileID: 7544873323870647214, guid: 53d9383f43648e94285f6e2c033b4a6b,
+    type: 3}
+  health: 50
+  shield: 25
+  shieldRegenRate: 0
+  shieldRegenTime: 0
+  weapons:
+  - {fileID: 11400000, guid: 8e9990897acc99e4d92b3e712adf4a07, type: 2}
+  speed: 4
+  acceleration: 1
+  mass: 15
+  drag: 1
+  turnSpeed: 5
+  defaultReputation: -100

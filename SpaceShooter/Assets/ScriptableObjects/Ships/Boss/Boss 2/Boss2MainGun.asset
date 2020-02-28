@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d3210549f35f84f448fbec235ca29c4e, type: 3}
+  m_Name: Boss2MainGun
+  m_EditorClassIdentifier: 
+  baseSprite: {fileID: 21300000, guid: 9be2a62adbd8e9a4492efaa76257c9e9, type: 3}
+  animatorController: {fileID: 0}
+  explosion: {fileID: 7544873323870647214, guid: 53d9383f43648e94285f6e2c033b4a6b,
+    type: 3}
+  health: 350
+  shield: 150
+  shieldRegenRate: 15
+  shieldRegenTime: 15
+  weapons:
+  - {fileID: 11400000, guid: 6b6f2a149e6fb6240ab26609608a20de, type: 2}
+  speed: 0
+  acceleration: 0
+  mass: 0
+  drag: 0
+  turnSpeed: 5
+  defaultReputation: -100

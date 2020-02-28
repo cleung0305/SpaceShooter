@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d3210549f35f84f448fbec235ca29c4e, type: 3}
+  m_Name: RangedFederation
+  m_EditorClassIdentifier: 
+  baseSprite: {fileID: 1631311430100315378, guid: 65239e30c411027459bff9d80b044f01,
+    type: 3}
+  animatorController: {fileID: 22100000, guid: 242fde35fb85a498aa42459422dbe63b, type: 2}
+  explosion: {fileID: 0}
+  health: 15
+  shield: 15
+  shieldRegenRate: 15
+  shieldRegenTime: 15
+  weapons:
+  - {fileID: 11400000, guid: eb8ec8e4d93618941a35a89f779efb9a, type: 2}
+  speed: 5
+  acceleration: 1
+  mass: 20
+  drag: 2
+  turnSpeed: 4
+  defaultReputation: 100

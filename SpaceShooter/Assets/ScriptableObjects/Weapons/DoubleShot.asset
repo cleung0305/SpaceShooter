@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 56dfad2355f8dd74b956bfe524abac64, type: 3}
+  m_Name: DoubleShot
+  m_EditorClassIdentifier: 
+  damage: 35
+  fireRate: 1
+  projectileSpeed: 8
+  projectileImage: {fileID: 7305301340208738424, guid: 9f95539e075e8f549898b8d3f1132e83,
+    type: 3}
+  npcFollowDistance: 25
+  range: 25
+  sound: {fileID: 8300000, guid: e455c98a7f5521e46a641b74fff4a6ba, type: 3}
+  volume: 0.5
+  projectile: {fileID: 8205101436414778113, guid: 6fab3b3869ad4cf4e917a79e1876713a,
+    type: 3}
+  scale: {x: 2, y: 2}
+  degreesOfAccuracy: 45

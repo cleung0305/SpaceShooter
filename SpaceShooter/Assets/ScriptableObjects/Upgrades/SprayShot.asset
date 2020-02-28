@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eb831d302c8bdc041b4e6f58fd2089f0, type: 3}
+  m_Name: SprayShot
+  m_EditorClassIdentifier: 
+  type: 3
+  maxBuyCount: 1
+  upgradeName: Spray Shot
+  description: Rapid fire, but less damage per shot. A good choice for those with
+    can't aim!
+  cost: 500
+  increase: 0
+  weapon: {fileID: 11400000, guid: 4eb0fd322f7bbcb458a4d4fc0440daca, type: 2}
+  ship: {fileID: 0}
